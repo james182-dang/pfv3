@@ -14,3 +14,33 @@ export const projects = [
         link: 'sousmart.herokuapp.com'
     }
 ]
+
+export const skills = [
+    "Javascript",
+    "HTML",
+    "CSS",
+    "Tailwind",
+    "Bootstrap",
+    "React",
+    "Node",
+    "Express",
+    "MongoDB",
+    "SQL",
+    "Apollo/GraphQL",
+    "...and more"
+]
+
+export const testimonials = [
+    {
+        name: "Theodore Carrot",
+        quote: "James is as good of a developer as he is a dad.",
+        image: "./",
+        company: "Corgi, LLC."
+    },
+    {
+        name: "Lames Jindsey",
+        quote: "James is a very cool guy, and an excellent personality to add to your team. Trust me. Don't look too deep into my name. Just trust me.",
+        image: './',
+        company: "I'm A Real Person Inc."
+    }
+]
