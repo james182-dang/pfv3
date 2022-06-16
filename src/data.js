@@ -1,17 +1,22 @@
 export const projects = [
     {
         title: "PlayTrack",
-        subtitle: "Mongo, Apollo, GraphQL, React",
+        subtitle: "Mongo, Apollo, GraphQL, React, IGDB API, Cloudinary",
         description: "PlayTrack is a social media site based around casual gaming, where you can track your completed games and share updates with your friends.",
-        image: './',
-        link: "playtrackgames.herokuapp.com"
+        image: './PlayTrack.png',
+        activeLink: "playtrackgames.herokuapp.com"
     },
     {
         title: "SouSmart",
         subtitle: "Mongo, Apollo, GraphQL, React",
         description: "SouSmart is a website that will give you recipes you can make without having to leave home. Input the ingredients you have, refine your search, and see what you can whip up.",
         image: './',
-        link: 'sousmart.herokuapp.com'
+        activeLink: 'sousmart.herokuapp.com'
+    },
+    {
+        title: "ForeCastify",
+        subtitle: "HTML, Bootstrap, Spotify API, Openweather API, Moment.js",
+        description: "ForeCastify was my first web-development project. Enter the city you're in, and ForeCastify will show you the forecast with a relevant spotify playlist to match the mood."
     }
 ]
 
