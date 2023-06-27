@@ -12,8 +12,8 @@ function About() {
                         <br className='hidden lg:inline-block' />I'd love to work for you.
                     </h1>
                     <p className='mb-10 leading-relaxed'>
-                        I'm a certified Full-Stack Web Developer. I'm also a musician,
-                        dog-lover, and walking Legend of Zelda encyclopedia. I'd
+                        I'm a certified Full-Stack Web Developer specializing in front-end design.
+                        I'm also a musician, dog-lover, and walking Legend of Zelda encyclopedia. I'd
                         love to add my skills (mostly the development ones) to your team.
                     </p>
                     <div className='flex justify-center'>

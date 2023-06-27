@@ -1,5 +1,12 @@
 export const projects = [
     {
+        title: "Enchiridion (Working Title)",
+        subtitle: "Godot",
+        description: "Enchiridion is a video game that myself and a partner are working on.",
+        image: '',
+        activeLink: "https://github.com/james182-dang/funProject"
+    },
+    {
         title: "PlayTrack",
         subtitle: "Mongo, Apollo, GraphQL, React, IGDB API, Cloudinary",
         description: "PlayTrack is a social media site based around casual gaming, where you can track your completed games and share updates with your friends.",

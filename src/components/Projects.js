@@ -1,5 +1,6 @@
 import { LightningBoltIcon } from '@heroicons/react/solid';
 import { projects } from '../data';
+import Roll from 'react-reveal/Roll'
 
 function Projects() {
     return (
@@ -16,6 +17,7 @@ function Projects() {
                 </div>
                 <div className='flex flex-wrap -m-4'>
                     {projects.map((project) => (
+                        <Roll right duration={2000}>
                         <a
                           href={project.activeLink} target='_blank'
                           key={project.image}
@@ -37,6 +39,7 @@ function Projects() {
                             </div>  
                           </div>  
                         </a>
+                        </Roll>
                     ))}
                 </div>
             </div>
