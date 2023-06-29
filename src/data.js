@@ -22,7 +22,7 @@ export const projects = [
     {
         title: "2D Application Development",
         subtitle: "Godot",
-        description: "Application development, personal projects.",
+        description: "Application development, personal projects regarding software development.",
         image: '',
     }
 ]
