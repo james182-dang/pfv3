@@ -1,15 +1,9 @@
 export const projects = [
     {
-        title: "Enchiridion (Working Title)",
-        subtitle: "Godot",
-        description: "Enchiridion is a video game that myself and a partner are working on.",
-        image: '',
-    },
-    {
         title: "PlayTrack",
         subtitle: "Mongo, Apollo, GraphQL, React, IGDB API, Cloudinary",
         description: "PlayTrack is a social media site based around casual gaming, where you can track your completed games and share updates with your friends.",
-        image: './PlayTrack.png',
+        image: './images/PlayTrack.png',
         activeLink: "https://github.com/james182-dang/PlayTrack"
     },
     {
@@ -24,6 +18,12 @@ export const projects = [
         subtitle: "HTML, Bootstrap, Spotify API, Openweather API, Moment.js",
         description: "ForeCastify was my first web-development project. Enter the city you're in, and ForeCastify will show you the forecast with a relevant spotify playlist to match the mood.",
         activeLink: "https://github.com/james182-dang/Forecastify"
+    },
+    {
+        title: "2D Application Development",
+        subtitle: "Godot",
+        description: "Application development, personal projects.",
+        image: '',
     }
 ]
 
@@ -44,15 +44,9 @@ export const skills = [
 
 export const testimonials = [
     {
-        name: "Theodore Carrot",
-        quote: "James is as good of a developer as he is a dad.",
+        name: "Brian Epstein",
+        quote: "James was a fantastic employee for me. He was always punctual, understood his job completely, and went above and beyond on a regular basis to ensure a successful shift. I would fully recommend James to any position as he puts his full effort into everything he does. ",
         image: "./",
-        company: "Corgi, LLC."
-    },
-    {
-        name: "Lames Jindsey",
-        quote: "James is a very cool guy, and an excellent personality to add to your team. Trust me. Don't look too deep into my name. Just trust me.",
-        image: './',
-        company: "I'm A Real Person Inc."
+        company: "United BMW"
     }
 ]
