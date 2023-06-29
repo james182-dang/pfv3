@@ -38,7 +38,7 @@ function Contact() {
                       marginHeight={0}
                       marginWidth={0}
                       style={{ filter: 'opacity(0.7)' }}
-                      src="https://www.google.com/maps/embed/v1/place?q=Hendersonville,+TN&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+                      src="https://www.google.com/maps/embed/v1/place?q=White+House,+TN&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
                     />
                     <div className='bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md'>
                         <div className='lg:w-1/2 px-6'>
@@ -46,8 +46,8 @@ function Contact() {
                                 Address
                             </h2>
                             <p className='mt-1'>
-                                245 Indian Lake Boulevard <br />
-                                Hendersonville, TN, 37075
+                                1331 Winding Way Drive <br />
+                                White House, TN, 37188
                             </p>
                         </div>
                         <div className='lg:w-1/2 px-6 mt-4 lg:mt-0'>
