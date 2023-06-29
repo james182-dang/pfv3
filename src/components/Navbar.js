@@ -1,4 +1,5 @@
 import { FastForwardIcon } from '@heroicons/react/solid';
+import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 function Navbar() {
     return (
@@ -16,6 +17,9 @@ function Navbar() {
                     <a href='#skills' className='mr-5 hover:text-white'>
                         Skills
                     </a>
+                    <a href='https://github.com/james182-dang' target="_blank" className='mr-5 hover:text-white'><FaGithub /></a>
+                    <a href='https://www.linkedin.com/in/james-lindsey-7ab945218/' target="_blank" className='mr-5 hover:text-white'><FaLinkedin /></a>
+
 
                 </nav>
                 <a 
